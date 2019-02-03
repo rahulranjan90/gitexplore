@@ -3,3 +3,5 @@ TWO FUNCTION-- i have added ANOTHER very important function here..
 THREE FUNCTION-- i have added THREE very important function here..
 FOUR FUNCTION-- i have added FOUR very important function here..
 in div is added in master branch
+
+added a chart function
