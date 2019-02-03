@@ -1,0 +1,12 @@
+ONE FUNCTION-- i have added one very very very important function here..
+ONE FUNCTION-- i have added ok important function here..
+TWO FUNCTION-- i have added ANOTHER very important function here..
+THREE FUNCTION-- i have added THREE very important function here..
+FOUR FUNCTION-- i have added FOUR very important function here..
+in div is added in master branch
+
+added a chart function
+
+
+added a code for logout
+adding a login function via x method
