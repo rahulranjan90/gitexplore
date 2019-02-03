@@ -1,1 +1,4 @@
 ONE FUNCTION-- i have added one very important function here..
+TWO FUNCTION-- i have added ANOTHER very important function here..
+THREE FUNCTION-- i have added THREE very important function here..
+FOUR FUNCTION-- i have added FOUR very important function here..
