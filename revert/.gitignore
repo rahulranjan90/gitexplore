@@ -1,3 +1,4 @@
 #this is comment
 *.js
 !app.js
+*.php
